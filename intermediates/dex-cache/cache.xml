@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\329afef6b3815efa6a0c16e5fcc33566f2e52ac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_ed0e87c3b5563683bd28ed3e24878a286136f1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\3eb4c82d5434d94c487d6b422571930a4f50acc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_af4b439948822543952a93979bc3fa2b188fad06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\510fecf185cc257a6af4f1a658ed0bf6455f7eb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_2df621bcfa4e7922184a01262ac660cbabfc92ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\98a812ce7494fdd1e304537daec7bae864f3145a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_9ed4a2baac7a01c9e29e4977c25d1569cf2e4589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\e724b53b3a047886bf1d632b7330677ffa03af06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_1a0c8e66ebbde597cbc98b6ef3260d8ba011c53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\c34ee99e4e97e635b440cf35723d9cc3d9da7f21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_d322b4f4cf3cfdd67dbe7201f427795a556e9f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\software\androidsdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_eae47ecc1acd4c3a7655c35cbd6bdad892a0e8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\a7639645a6088dda158f181b0215729e16389576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_ad39b8e133db74194fb99a5db065709eadf5a4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\f88b8f5df3aae79fced2ff24bbc9786a97c26883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_06dfd5c35e888fce529c06e96e2cdb6a0553b078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\77158212575bc7f654b51cd8c49320e14a7cdbc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_2840957e130bf3c8a29fdd3849aca4c11c42c37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\d68fbdcf0c2821bccc58d39c563382e9f285c15b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_66be3729e4e7413c719ffc19558278e556bc34ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\software\androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1cf9c03c143c8572482ad194f018779f2e20baf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\e7326f1262fc27ddd24359ea889bc966f393bdf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_f5329d22c3f0297c7cf019d14746fc0a80d00c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\2fae9ee6a84a783d0346ead934028ade544ff7bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_cb28f3d99f0fb0c8dcff2f8cc7f12c5565d87132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\陈康勇\.android\build-cache\661e7c5c3151cb178ceab820fe60609dbd384888\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\StudyFile\android\WitGather\app\build\intermediates\pre-dexed\debug\classes_c34196e1b18ab2d970562dd7d77d20cc0ae13f81.jar" />
+    </item>
+
+</items>
